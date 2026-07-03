@@ -22,7 +22,7 @@ Coursework completed as part of my MSc in Computer Science:
 
 - **Containers & CI/CD:** Docker, GitHub Actions
 - **Data:** pandas, PostgreSQL
-- **Operating Systems:** Linux (Ubuntu & Bash), macOS, Windows, & Virtual Machines (VMware & Virtual Box)
+- **Operating Systems:** Linux (Ubuntu / Bash), macOS, Windows, & Virtual Machines (VMware & Virtual Box)
 - **Currently studying:** Software Architecture & System Design
 
 ### 💼 Domain Expertise
