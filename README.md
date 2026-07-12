@@ -6,6 +6,11 @@ I'm a **senior commodity buyer** and **working student** pursuing a Master's in 
 
 After years spent negotiating contracts, managing suppliers, and moving commodities through complex global supply chains, I'm now channeling that domain expertise into technology. My goal is to bridge the gap between business operations and the systems that power them.
 
+### Projects
+**1. Netflix Content Exploratory Data Analysis:**
+Created an ETL pipeline that cleans a messy Netflix dataset with pandas, stores the clean data in posgres, and creates a dashboard of the analysis findings using Metabase.
+
+
 ### 🎓 Academic Background
 
 Coursework completed as part of my MSc in Computer Science:
